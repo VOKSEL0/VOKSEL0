@@ -1,4 +1,4 @@
-<h1 style:"text-align:center">Hi, I'm VOKSEL!</h1>
+<h1 style:"text-align:center">Hi, I'm VOKSEL! 👋</h1>
 
 - 🔭 I’m currently working on [NULL.](https://github.com/VOKSEL0/NULL.)
 
