@@ -13,6 +13,6 @@
 - 🍰 Favorite dessert: Tiramisu
 
 <p  align="center">
-   <img width="AUTO" height="200px" src="https://github-readme-stats.vercel.app/api?username=VOKSEL0&show_icons=true&theme=react" align="left">
-   <img width="AUTO" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOKSEL0&theme=react" align="right">
+   <img height="AUTO" width="200px" src="https://github-readme-stats.vercel.app/api?username=VOKSEL0&show_icons=true&theme=react" align="left">
+   <img height="AUTO" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOKSEL0&theme=react" align="right">
  </p>
