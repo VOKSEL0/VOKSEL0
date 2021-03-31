@@ -16,6 +16,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p  align="center">
-   <img style="margin_left:50px; margin_right:50px;" width="AUTO" height="175" src="https://github-readme-stats.vercel.app/api?username=VOKSEL0&show_icons=true&theme=react">
-   <img style="margin_left:50px; margin_right:50px;" width="AUTO" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOKSEL0&layout=compact&theme=react">
+   <img style="margin_left:50px; margin_right:50px;" width="200px" height="AUTO" src="https://github-readme-stats.vercel.app/api?username=VOKSEL0&show_icons=true&theme=react">
+   <img style="margin_left:50px; margin_right:50px;" width="200px" height="AUTO" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOKSEL0&layout=compact&theme=react">
  </p>
