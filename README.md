@@ -4,9 +4,13 @@
 
 - 🌱 I’m currently learning HTML, CSS and Python
 
-- 💻 Favorite Tools / Software: VS Code, Webflow, Figma, Adobe Illustrator
+- 👶 Age: 13 years old
 
-- 📫 How to reach me: My discord @ is VOKSEL#8148
+- 🎂 Birthday: 4th of July
+
+- 💻 Favorite Tools / Software: [Visual Studio Code](https://code.visualstudio.com/), [Webflow](https://webflow.com), [Figma](https://figma.com), [Adobe Illustrator](https://www.adobe.com/products/illustrator.html), [Blender 3d](https://blender.org)
+
+- 📫 How to reach me: My discord @ is VOKSEL#8148 and my Twitter is linked in my profile 
 
 - 🍔 Favorite food: Lasagna and Sushi
 
