@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning HTML, CSS and Python
 
+- 💻 Favorite Tools / Software: VS Code, Webflow, Figma, Adobe Illustrator
+
 - 📫 How to reach me: My discord @ is VOKSEL#8148
 
 - 😄 Pronouns: He/Him
