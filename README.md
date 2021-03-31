@@ -10,6 +10,6 @@
 
 - 😄 Pronouns: He/Him
 
-- 🍔 My favorite food is Lasagna
+- 🍔 Favorite food: Lasagna and Sushi
 
-- 🍰 My favorite dessert is Tiramisu
+- 🍰 Favorite dessert: Tiramisu
