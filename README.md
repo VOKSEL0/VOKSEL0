@@ -9,7 +9,7 @@
 - 🍔 Favorite food: Lasagna and Sushi
 - 🍰 Favorite dessert: Tiramisu
 
-Fun fact: I hate javascript 🤧
+‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎ ‎‎Fun fact: I hate javascript 🤧
 
 ‎‏‏‎ ‎
 
