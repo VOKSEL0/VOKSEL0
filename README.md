@@ -12,7 +12,6 @@
 ‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎ ‎‎Fun fact: I hate javascript 🤧
 
 ‎‏‏‎ ‎
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p  align="center">
    <img style="margin_left:50px; margin_right:50px;" width="AUTO" height="150" src="https://github-readme-stats.vercel.app/api?username=VOKSEL0&show_icons=true&theme=react">
