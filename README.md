@@ -1,6 +1,6 @@
 <h1 style:"text-align:center">Hi, I'm VOKSEL! 👋</h1>
 
-- 🔭 I’m currently working on [NULL.](https://github.com/VOKSEL0/NULL.)
+- 🔭 I’m currently working on [NULL](https://github.com/VOKSEL0/NULL.) and Sync.
 - 🌱 I’m currently learning HTML, CSS and Python
 - 👶 Age: 13 years old
 - 🎂 Birthday: 4th of July
