@@ -1,8 +1,8 @@
 <h1 style:"text-align:center">Hi, I'm VOKSEL! 👋</h1>
 
 - 🔭 I’m currently working on [NULL](https://github.com/VOKSEL0/NULL.) and Sync.
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python
-- 👶 Age: 13 years old
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Lua and Python
+- 👶 Age: 14 years old
 - 🎂 Birthday: 4th of July
 - 💻 Favorite Tools / Software: [Visual Studio Code](https://code.visualstudio.com/), [Webflow](https://webflow.com), [Figma](https://figma.com), [Adobe Illustrator](https://www.adobe.com/products/illustrator.html), [Blender 3d](https://blender.org)
 - 📫 How to reach me: My discord @ is VOKSEL#8148 and my Twitter is linked in my profile 
