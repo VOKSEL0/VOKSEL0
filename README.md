@@ -1,6 +1,6 @@
 <h1 style:"text-align:center">Hi, I'm VOKSEL! 👋</h1>
 
-- 🔭 I’m currently working on [NULL](https://github.com/VOKSEL0/NULL.) and Sync.
+- 🔭 I’m currently working on [NULL](https://github.com/VOKSEL0/NULL.) and [Sync](https://syncdiscord.com).
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Lua and Python
 - 👶 Age: 14 years old
 - 🎂 Birthday: 4th of July
@@ -15,7 +15,6 @@ Console.WriteLine("Learning C# and Unity Engine");
 ```
 ```cpp
 #include <iostream>
-using namespace std;
 int main() {
    std::cout<<"Learning C++ and writing my own desktop programs"<<endl;
    system("PAUSE");
