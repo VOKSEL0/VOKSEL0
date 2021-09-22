@@ -1,12 +1,12 @@
-<h1 style:"text-align:center">Hi, I'm VOKSEL! 👋</h1>
+# Hi, I'm VOKSEL! 👋
 
 - 🔭 I’m currently working on [NULL](https://github.com/VOKSEL0/NULL.) and [Sync](https://syncdiscord.com).
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Lua and Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Lua, C# & Python
 - 👶 Age: 14 years old
 - 🎂 Birthday: 4th of July
 - 💻 Favorite Tools / Software: [Visual Studio Code](https://code.visualstudio.com/), [Figma](https://figma.com), [Adobe Illustrator](https://www.adobe.com/products/illustrator.html), [Adobe Photoshop](https://www.adobe.com/products/photoshop.html), [Adobe After Effects](https://www.adobe.com/mx/products/aftereffects.html), [Roblox Studio](https://www.roblox.com/create) and [Blender 3d](https://blender.org)
 - 📫 How to reach me: My discord @ is VOKSEL#3331 and my Twitter is linked in my profile 
-- 🍔 Favorite food: Lasagna and Sushi
+- 🍔 Favorite food: Caccio e pepe
 - 🍰 Favorite dessert: Tiramisu
 
 🕒 I plan on:
